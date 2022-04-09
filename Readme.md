@@ -1,10 +1,10 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Ambuj Kumar</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Ambuj Kumar 💻</a>!
    
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >💻
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
 </p>
 
 <div>
