@@ -15,7 +15,10 @@
   <img align="left" alt="ambuj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/Ambuj.Kumar.1997" target = "_blank">
-  <img align="left" alt="ambuj | Twitter" width="50px" src="https://img.icons8.com/color/2x/facebook.png" />
+  <img align="left" alt="ambuj | Facebook" width="50px" src="https://img.icons8.com/color/2x/facebook.png" />
+</a>
+<a href="https://www.instagram.com/ambuj_kumar_ak" target = "_blank">
+  <img align="left" alt="ambuj | Instagram" width="50px" src="https://img.icons8.com/fluency/2x/instagram-new.png" />
 </a>
 
 <br/>
