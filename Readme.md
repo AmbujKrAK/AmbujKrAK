@@ -14,6 +14,9 @@
 <a href="https://twitter.com/@AmbujKr9851" target = "_blank">
   <img align="left" alt="ambuj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.facebook.com/Ambuj.Kumar.1997" target = "_blank">
+  <img align="left" alt="ambuj | Twitter" width="40px" src="https://img.icons8.com/color/2x/facebook.png" />
+</a>
 
 <br/>
 <br/>
