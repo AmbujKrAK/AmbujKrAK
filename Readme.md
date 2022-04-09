@@ -8,10 +8,10 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/ambuj-kumar02/">
+<a href="https://www.linkedin.com/in/ambuj-kumar02/" target = "_blank">
   <img align="left" alt="ambuj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/@AmbujKr9851">
+<a href="https://twitter.com/@AmbujKr9851" target = "_blank">
   <img align="left" alt="ambuj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
