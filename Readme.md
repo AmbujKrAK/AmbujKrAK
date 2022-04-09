@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
-
+<div>
 <a href="https://www.linkedin.com/in/ambuj-kumar02/" target = "_blank">
   <img align="left" alt="ambuj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -20,6 +20,7 @@
 <a href="https://www.instagram.com/ambuj_kumar_ak" target = "_blank">
   <img align="left" alt="ambuj | Instagram" width="55px" src="https://img.icons8.com/fluency/2x/instagram-new.png" />
 </a>
+</div>
 
 <br/>
 <br/>
