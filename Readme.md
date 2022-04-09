@@ -103,7 +103,7 @@
     if you like what i do, maybe consider buying me a Food! 🥺👉👈
 </p>
 <p align="center">
-<a href="" target="_blank"><img src="https://t4.ftcdn.net/jpg/02/93/58/69/240_F_293586987_hEYdd7A5hG26arSdPPQZvK8uyg0OSU0z.jpg" alt="Buy Me Food" width="150" ></a>
+<a href="" target="_blank"><img src="https://t3.ftcdn.net/jpg/02/38/24/74/240_F_238247478_KNq15yMlCmkfiNZFNYDKY2m5zGphvwl5.jpg" alt="Buy Me Food" width="150" ></a>
 </p>
 <p align="center">
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
