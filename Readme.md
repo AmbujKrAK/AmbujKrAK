@@ -100,10 +100,10 @@
 
  <hr>
 <p align="center">
-    if you like what i do, maybe consider buying me a Pizza! 🥺👉👈
+    if you like what i do, maybe consider buying me a Food! 🥺👉👈
 </p>
 <p align="center">
-<a href="" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/706/premium/706918.png?token=exp=1649524826~hmac=d45b28bdb8c6b5357f81acdaa2601e7e" alt="Buy Me A Coffee" width="150" ></a>
+<a href="" target="_blank"><img src="https://t4.ftcdn.net/jpg/02/93/58/69/240_F_293586987_hEYdd7A5hG26arSdPPQZvK8uyg0OSU0z.jpg" alt="Buy Me Food" width="150" ></a>
 </p>
 <p align="center">
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
