@@ -31,17 +31,18 @@
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in BBA and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
+- 🔭 I’m currently working on Frontend & Backend
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
+- 🚀 Always ready to collaborate for Dev Experiments
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me **ambuj02dbz@gamil.com**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Imagination is more important then knowledge.
+- ⚡ Fun Fact: Imagination is more important then knowledge 📖
+- 🤠 Nick Name : Ankit
  <br>
  
-## 🚀 Languages and Tools:
+## 🥇 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
