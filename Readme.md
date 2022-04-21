@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
 </p>
 
+<br>
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div>
 <a href="https://www.linkedin.com/in/ambuj-kumar02/" target = "_blank">
