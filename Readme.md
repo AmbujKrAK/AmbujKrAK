@@ -79,22 +79,25 @@
  <br>
  
  <h2>ℹ️ &nbsp;Github Info</h2>
- <details>
+ |<details>
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbujKrAK&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="ambuj kumar" /></p>
-</details>
-<details>	
+</details>|
+
+|<details>	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmbujKrAK&theme=github_dark" alt="ambuj kumar" align = "center"/></p>
-</details>
-<details>   
+</details>|
+
+|<details>   
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=AmbujKrAK&margin-w=5&theme=radical" alt="ambuj kumar" /></a> </p>
- </details>
-<details>
+ </details>|
+ 
+|<details>
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmbujKrAK&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details>
+</details>|
 
 
 
