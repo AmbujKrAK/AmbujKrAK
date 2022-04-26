@@ -29,21 +29,20 @@
 
 
 ## 👨🏻‍💻About Me
-
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Com and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
-
+<b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Com and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward to some interesting and challenging opportunities.
 
 - 🔭 I’m currently working on Frontend & Backend
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning the MERN stack
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 - 🚀 Always ready to collaborate for Dev Experiments
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me **ambuj02dbz@gamil.com**
 - 😄 Pronouns: He/His
-- ⚡ Fun Fact: Imagination is more important then knowledge 📖
-- 🤠 Nick Name : Ankit
+- ⚡ Fun Fact: Imagination is more important than knowledge 📖
+- 🤠 Nick Name: Ankit
 - 💬 Have a look at my [portfolio](NA).
  <br>
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
 <h2>🥇 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
