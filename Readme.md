@@ -68,8 +68,10 @@
 <br/>
 <br/>
 
-## 📊 My Github Stats<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
+## 📊 My Github Stats 
 
+<br/>
+<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
 <br/>
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=AmbujKrAK&theme=react&show_icons=true&include_all_commits=true" />
