@@ -52,9 +52,9 @@
 
 <br>
 ## 👨🏻‍💻About Me
-<p align="left">
+
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Com and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward to some interesting and challenging opportunities.
-</p>
+
 - 🔭 I’m currently working on Frontend & Backend
 - 🌱 I’m currently learning the MERN stack
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
