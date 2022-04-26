@@ -25,6 +25,28 @@
 </a>
 
 <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ambuj-kumar02/">
+    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue">
+  </a>
+  &nbsp
+  <a href = "https://www.facebook.com/Ambuj.Kumar.1997">
+        <img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=blue">
+  </a>
+   &nbsp
+  <a href="Nil">
+    <img src="https://img.shields.io/badge/-Website-222222?style=flat-square&logo=website&logoColor=white">
+  </a>
+   &nbsp
+  <a href="https://twitter.com/@AmbujKr9851">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blue"/>
+  </a>
+  &nbsp
+  <a href="https://medium.com/@ankitambuj02dbz">
+        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=green"/>
+  </a>
+  &nbsp
+</p>
 <br>
 
 
@@ -45,7 +67,6 @@
 - 💬 Have a look at my [portfolio](NA).
  <br>
  
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>🥇 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
 <p align="left"> 
