@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
 </p>
 
-<img align="right" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> <img align="right" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" /> </h2>
 
 <a href="https://www.linkedin.com/in/ambuj-kumar02/" target = "_blank">
   <img align="left" alt="ambuj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -25,28 +25,7 @@
 </a>
 
 <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ambuj-kumar02/">
-    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue">
-  </a>
-  &nbsp
-  <a href = "https://www.facebook.com/Ambuj.Kumar.1997">
-        <img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=blue">
-  </a>
-   &nbsp
-  <a href="Nil">
-    <img src="https://img.shields.io/badge/-Website-222222?style=flat-square&logo=website&logoColor=white">
-  </a>
-   &nbsp
-  <a href="https://twitter.com/@AmbujKr9851">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blue"/>
-  </a>
-  &nbsp
-  <a href="https://medium.com/@ankitambuj02dbz">
-        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=green"/>
-  </a>
-  &nbsp
-</p>
+
 <br>
 
 
