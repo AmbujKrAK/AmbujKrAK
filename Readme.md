@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-## 📊 My Github Stats<img align="right" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
+## 📊 My Github Stats<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
 
 <br/>
 <p align="center"> 
