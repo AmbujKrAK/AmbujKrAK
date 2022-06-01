@@ -108,9 +108,9 @@
 <p align="center">
     if you like what i do, maybe consider buying me a Pizza! 🥺👉👈
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/706/premium/706918.png?token=exp=1649525041~hmac=bb17ccea3d276d41e2a34c8075fb7432" alt="Buy Me Food" width="150" ></a>
-</p>
+</p> -->
 <p align="center">
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>  
