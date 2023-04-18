@@ -19,6 +19,7 @@
 <a href="https://www.facebook.com/Ambuj.Kumar.1997" target = "_blank">
   <img align="left" alt="ambuj | Facebook" width="55px" src="https://img.icons8.com/color/2x/facebook.png" />
 </a>
+<br>
 <a href="https://www.instagram.com/ambuj_kumar_ak" target = "_blank">
   <img align="left" alt="ambuj | Instagram" width="55px" src="https://img.icons8.com/fluency/2x/instagram-new.png" />
 </a>
