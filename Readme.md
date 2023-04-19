@@ -77,7 +77,7 @@
  </p> 
   <br/>
   <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Kaushik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KAUSH101&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Ambuj Kumar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmbujKrAK&theme=react-dark&hide_border=true" /></a>
 
 <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
