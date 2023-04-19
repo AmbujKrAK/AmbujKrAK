@@ -76,9 +76,7 @@
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbujKrAK&theme=react&layout=compact" />
  </p> 
   <br/>
-  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ambuj Kumar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmbujKrAK&theme=react-dark&hide_border=true" /></a>
-
+  
 <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
@@ -101,8 +99,10 @@
  </details>
  
 <details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ambuj Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmbujKrAK&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- <summary><b> Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Ambuj Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmbujKrAK&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+  <h2 align="left">⚡Activity Graph 📊:</h2>
+  <a><img alt="Ambuj Kumar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmbujKrAK&theme=react-dark&hide_border=true" /></a>
 </details>
 
 
