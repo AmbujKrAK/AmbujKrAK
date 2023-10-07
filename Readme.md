@@ -1,7 +1,7 @@
 
 
   <h2 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hi there , I'm <a href=""> Ambuj Kumar 💻</a>!
+     Hi there , I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> <a href=""> Ambuj Kumar 💻</a>!
   </h2>
 
 <p align="center">
