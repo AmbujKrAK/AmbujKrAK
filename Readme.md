@@ -1,10 +1,8 @@
 
-<div>
-  <h2 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there , I'm <a href=""> Ambuj Kumar 💻</a>!
-  </h2>
-</div>
 
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hi there , I'm <a href=""> Ambuj Kumar 💻</a>!
+  </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
