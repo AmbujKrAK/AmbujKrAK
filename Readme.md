@@ -15,7 +15,7 @@
   <img align="left" alt="ambuj's LinkedIn" width="40px" src="https://github.com/user-attachments/assets/01e7e965-3a1f-49ce-b56c-440fbe4a9adc" />
 </a>
 <a href="https://x.com/AmbujKr9851" target = "_blank">
-  <img align="left" alt="ambuj | X" width="40px" src="https://github.com/user-attachments/assets/69acb1ac-0700-405a-8b71-3a8f3a81f6e4" />
+  <img align="left" alt="ambuj | X" width="40px" src="https://github.com/user-attachments/assets/ec383806-ecb6-4006-bcda-49772b609a7b" />
 </a>
 <a href="https://www.facebook.com/Ambuj.Kumar.1997" target = "_blank">
   <img align="left" alt="ambuj | Facebook" width="55px" src="https://img.icons8.com/color/2x/facebook.png" />
