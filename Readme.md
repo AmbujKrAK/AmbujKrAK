@@ -12,10 +12,10 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="https://www.linkedin.com/in/ambuj-kumar02/" target = "_blank">
-  <img align="left" alt="ambuj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ambuj's LinkedIn" width="40px" src="https://github.com/user-attachments/assets/01e7e965-3a1f-49ce-b56c-440fbe4a9adc" />
 </a>
 <a href="https://twitter.com/@AmbujKr9851" target = "_blank">
-  <img align="left" alt="ambuj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ambuj | Twitter" width="40px" src="https://github.com/user-attachments/assets/85772931-7a42-4c17-8d88-7e17249a1c8b)" />
 </a>
 <a href="https://www.facebook.com/Ambuj.Kumar.1997" target = "_blank">
   <img align="left" alt="ambuj | Facebook" width="55px" src="https://img.icons8.com/color/2x/facebook.png" />
