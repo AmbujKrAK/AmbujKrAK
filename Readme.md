@@ -39,7 +39,7 @@
 - 🌱 I’m currently learning the MERN stack
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 - 🚀 Always ready to collaborate for Dev Experiments
-- 💬 Ask me about any MERN related stuff
+- 💬 Ask me about any MERN-related stuff
 - 📫 How to reach me **ambuj02dbz@gamil.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun Fact: Imagination is more important than knowledge 📖
