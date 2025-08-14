@@ -60,7 +60,7 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://icons8.com/icon/13441/python" alt="python" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" />
    <img src="https://icons8.com/icon/117561/microsoft-excel-2019" alt="excel" />
    <img src="https://icons8.com/icon/J6KcaRLsTgpZ/sql" alt="sql" />
    <img src="https://icons8.com/icon/8ljTDYUEydbJ/oracle-pl-sql" alt="pl/sql"/>
