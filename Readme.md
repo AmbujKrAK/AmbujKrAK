@@ -64,7 +64,7 @@
    <img src="https://icons8.com/icon/117561/microsoft-excel-2019" alt="excel" />
    <img src="https://icons8.com/icon/J6KcaRLsTgpZ/sql" alt="sql" />
    <img src="https://icons8.com/icon/8ljTDYUEydbJ/oracle-pl-sql" alt="pl/sql"/>
-   <img src="https://icons8.com/icon/40670/c-programming" alt="C programming"/>
+   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C programming"/>
 
    
 
